@@ -1,6 +1,7 @@
 # trump-the-trump
 
-!
+![trump in game](ttps://github.com/seanyang0813/trump-the-trump/blob/master/Pictures/TWin.png)
+
 This is a gamer Yuhei Hattori, Jack Liu, and I made during our summer CS project in 2016.  
 
 It was the election year and we were meming on Trump. We meming about the small loan of a million dollars and the wall. Who would have guessed... 
